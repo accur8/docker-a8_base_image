@@ -1,6 +1,6 @@
 FROM phusion/baseimage:latest
 
-MAINTAINER Glen Marchesani "https://github.com/fizzy33"
+MAINTAINER Accur8 Software "https://github.com/accur8"
 
 
 # make sure we have the latest security patches
